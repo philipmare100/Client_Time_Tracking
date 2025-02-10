@@ -17,7 +17,7 @@ ASSIGNEES = "49211404,56674259,81808051,81800109,81747238,7342900,44580634,81655
 
 # ✅ Specific Client Tags to Include
 SPECIFIC_TAGS = {"kamoa", "platreef", "kico", "oksut", "pmc", "metalkol", "swakop", "witnessing", "ivm", "gold vale",
-                 "demo site"}
+                 "demo site","mms"}
 
 # ✅ Streamlit Sidebar for Date Selection
 st.sidebar.header("📅 Select Date Range")
